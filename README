@@ -1,0 +1,4 @@
+To do:
+- figure out if parameters can be implemented
+X create a testing/ main() program to test the username and password generators.
+X add functions to both classes that allow a user chosen username and password. 
